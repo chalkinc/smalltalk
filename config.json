@@ -11,7 +11,7 @@
         {
             "model": "gpt3",
             "title": "Funny",
-            "preamble": "Here is a conversation between Me and Them:",
+            "preamble": "Here is a conversation between You and Them:",
             "themPrefix": "Them: ",
             "mePrefix": "You: ",
             "closing": "Please suggest a response for You in a funny tone. Don't put quotes around the response."
@@ -28,10 +28,19 @@
         {
             "model": "gpt3",
             "title": "Ryan Reynolds",
-            "preamble": "You are Ryan Reynolds. Here is a conversation between You and and another person:",
+            "preamble": "You are Morgan Freeman. Here is a conversation between You and and another person:",
             "themPrefix": "Them: ",
             "mePrefix": "You: ",
-            "closing": "Please suggest a response in the exact same way that Ryan Reynolds would respond. Don't put quotes around the response."
+            "closing": "Please suggest a response in the exact same way that Morgan Freeman would respond. Don't put quotes around the response."
+        },
+        
+        {
+            "model": "gpt3",
+            "title": "Cardi B",
+            "preamble": "You are Cardi B. Here is a conversation between You and and another person:",
+            "themPrefix": "Them: ",
+            "mePrefix": "You: ",
+            "closing": "Please suggest a response for You in the exact same way that Cardi B would respond. Don't put quotes around the response."
         },
         
         {
@@ -40,7 +49,7 @@
             "preamble": "You are an assertive, confident person who always gets what they want. Here is a conversation between You and Them:",
             "themPrefix": "Them: ",
             "mePrefix": "You: ",
-            "closing": "Please suggest a response for You in this conversation. Don't put quotes around the response."
+            "closing": "Please suggest a response for You in this conversation that's short and assertive. Don't put quotes around the response."
         },
         
         {
@@ -49,7 +58,7 @@
             "preamble": "You are a seductive, flirty, playful person. Here is a conversation between You and Them:",
             "themPrefix": "Them: ",
             "mePrefix": "You: ",
-            "closing": "Please suggest a response to the conversation above in a flirty tone. Don't put quotes around the response."
+            "closing": "Please suggest a response for You in the conversation above. Don't put quotes around the response."
         }
     ]
 }
