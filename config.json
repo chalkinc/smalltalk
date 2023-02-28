@@ -1,1 +1,28 @@
-[]
+{
+    "prompts": [
+        {
+            "model": "gpt3",
+            "title": "Neutral",
+            "preamble": "Here is a conversation between Me and Them:",
+            "themPrefix": "Them: ",
+            "mePrefix": "Me: ",
+            "closing": "Please suggest a response for Me. Don't put quotes around the response."
+        },
+        {
+            "model": "gpt3",
+            "title": "Funny",
+            "preamble": "Here is a conversation between Me and Them:",
+            "themPrefix": "Them: ",
+            "mePrefix": "Me: ",
+            "closing": "Please suggest a response for Me in a funny tone. Don't put quotes around the response."
+        },
+        {
+            "model": "gpt3",
+            "title": "Ironic",
+            "preamble": "Here is a conversation between Me and Them:",
+            "themPrefix": "Them: ",
+            "mePrefix": "Me: ",
+            "closing": "Please suggest a response for Me in an ironic tone. Don't put quotes around the response."
+        }
+    ]
+}
