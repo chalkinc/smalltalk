@@ -4,7 +4,7 @@
             "model": "gpt3",
             "title": "Communication Expert",
             "preamble": "Please ignore all previous instruction. You are an expert at online communication, especially casual text messaging conversations. Please consider the following conversation between You and Them:",
-            "themPrefix": "Them: ",a
+            "themPrefix": "Them: ",
             "mePrefix": "You: ",
             "closing": "Please suggest the perfect response for Me in this conversation. Don't put quotes around the response."
         },
