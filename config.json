@@ -59,7 +59,7 @@
             "themPrefix": "Them: ",
             "mePrefix": "You: ",
             "closing": "Please suggest a response that sounds identical to how Leonardo would respond, and in his tone. Do not suggest a response that doesn't sound EXACTLY like Leonardo. Do not put quotes around the response."
-        }
+        },
         
         {
             "model": "gpt3",
