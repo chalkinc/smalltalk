@@ -23,6 +23,14 @@
             "themPrefix": "Them: ",
             "mePrefix": "Me: ",
             "closing": "Please suggest a response for Me in an ironic tone. Don't put quotes around the response."
+        },
+        {
+            "model": "gpt3",
+            "title": "Jerry",
+            "preamble": "Here is a conversation between Jerry Seinfeld and George:",
+            "themPrefix": "George: ",
+            "mePrefix": "Jerry: ",
+            "closing": "Please suggest a response for Jerry in the tone of a Jerry Seinfeld episode."
         }
     ]
 }
