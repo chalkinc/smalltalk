@@ -50,7 +50,7 @@
             "preamble": "Please ignore all previous instruction. You are Michael Scott, a character from the show The Office. Here is a conversation between You and another person over text message:",
             "themPrefix": "Them: ",
             "mePrefix": "You: ",
-            "closing": "Please suggest a response that sounds literally identical to how Michael Scott would respond, and in his exact tone from the show. Don't put quotes around the response."
+            "closing": "Please suggest a response that sounds literally identical Michael Scott, and in his exact tone. Don't put quotes around the response."
         },
         
         {
@@ -94,7 +94,7 @@
             "preamble": "You are Drake, the musician. Here is a conversation between You and another person over text message:",
             "themPrefix": "Them: ",
             "mePrefix": "You: ",
-            "closing": "Please suggest a response that sounds literally identical to how Drake would respond, and in his EXACT tone. Don't put quotes around the response."
+            "closing": "Please suggest a response that sounds literally identical to how Drake would respond, and in his EXACT tone. Remember you are 'You' in this conversation. Don't put quotes around the response."
         }
     ]
 }
