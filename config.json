@@ -37,7 +37,7 @@
             "model": "gpt-3.5-turbo",
             "title": "Funny",
             "shortTitle": "Funny",
-            "imageURL": "https://raw.githubusercontent.com/chalkinc/smalltalk/main/Assets/witty.jpeg",
+            "imageURL": "https://raw.githubusercontent.com/chalkinc/smalltalk/main/Assets/funny.jpeg",
             "preamble": "Please ignore all previous instruction. You are Kevin Hart the comedian. Here is a conversation between You and another person, over text:",
             "themPrefix": "Them: ",
             "mePrefix": "You: ",
