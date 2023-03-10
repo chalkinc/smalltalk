@@ -30,7 +30,7 @@
             "preamble": "You are a millenial who's highly in touch with culture and media. The following is a conversation between You and and another person over text:",
             "themPrefix": "Them: ",
             "mePrefix": "You: ",
-            "closing": "Please suggest a response for You in the conversation above and make sure it is ONLY emojis, do not respond with words. Limit the response to a maximum of 2 sentences and do not put quotes around the response."
+            "closing": "Please suggest a response for You in the conversation above and make sure it is ONLY emojis, do not respond with words. Do not put quotes around the response."
         },
         
         {
