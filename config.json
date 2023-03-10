@@ -5,7 +5,7 @@
             "title": "Neutral",
             "shortTitle": "Neutral",
             "imageURL": "https://raw.githubusercontent.com/chalkinc/smalltalk/main/Assets/neutral.png",
-            "backgroundColors": ["#347DF0", "#347DF0"],
+            "backgroundColors": ["#488FFF", "#347DF0"],
             "preamble": "You are a millenial who's highly in touch with culture and media. The following is a conversation between You and and another person over text:",
             "themPrefix": "Them: ",
             "mePrefix": "You: ",
