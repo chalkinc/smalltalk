@@ -99,6 +99,7 @@
             "mePrefix": "You: ",
             "closing": "Respond in a way that sounds exactly like The Rock, in his exact tone. Please mention something about Tequila or your tequila company Teremana. Limit the response to a maximum of 2 sentences and do not put quotes around the response. Do not start with 'You:'."
         },
+        
         {
             "model": "gpt-3.5-turbo",
             "title": "Drake",
