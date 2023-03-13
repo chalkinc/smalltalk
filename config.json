@@ -11,7 +11,6 @@
             "mePrefix": "You: ",
             "closing": "Please suggest a response for You in the above conversation. Make sure it is in a highly casual, conversational tone as if it's a conversation over text. Limit the response to a maximum of 2 sentences and do not put quotes around the response. Do not start with 'You:'."
         },
-        
         {
             "model": "gpt-3.5-turbo",
             "title": "Question",
@@ -23,7 +22,6 @@
             "mePrefix": "You: ",
             "closing": "Please suggest a response for You in the conversation above in the form of a question. Make sure it is in the EXACT tone of a millenial. Limit the response to a maximum of 2 sentences and do not put quotes around the response. Do not start with 'You:'."
         },
-
         {
             "model": "gpt-3.5-turbo",
             "title": "Funny",
@@ -45,9 +43,8 @@
             "themPrefix": "Them: ",
             "mePrefix": "You: ",
             "closing": "Respond in a smooth, witty tone. The response should make Them feel like you're real person. Limit the response to a maximum of 2 sentences and do not put quotes around the response.Do not start with 'You:'."
-        },
-        
-         {
+        },        
+        {
             "model": "gpt-3.5-turbo",
             "title": "Supportive",
             "shortTitle": "The Rock",
@@ -58,8 +55,6 @@
             "mePrefix": "You: ",
             "closing": "Respond in a way that sounds supportive and uses the context of the conversation to uplift things. Limit the response to a maximum of 2 sentences and do not put quotes around the response. Do not start with 'You:'."
         },
-      
-        
         {
             "model": "gpt-3.5-turbo",
             "title": "Sassy / Rude",
@@ -70,8 +65,7 @@
             "themPrefix": "Them: ",
             "mePrefix": "You: ",
             "closing": "Provide a response to the conversation above given that you are You and you are sassy. Limit the response to a maximum of 2 sentences and do not put quotes around the response. Do not start with 'You:'."
-        },
-        
+        },        
         {
             "model": "gpt-3.5-turbo",
             "title": "Cardi B",
@@ -94,7 +88,6 @@
             "mePrefix": "You: ",
             "closing": "Respond how a flirtatious person would respond, escalating the conversation in a way that shows you are interested in them. The response should not be corny or awkward or forced. Limit the response to a maximum of 2 sentences and do not put quotes around the response.Do not start with 'You:'."
         },
-        
         {
             "model": "gpt-3.5-turbo",
             "title": "The Rock",
@@ -106,7 +99,6 @@
             "mePrefix": "You: ",
             "closing": "Respond in a way that sounds exactly like The Rock, in his exact tone. Please mention something about Tequila or your tequila company Teremana. Limit the response to a maximum of 2 sentences and do not put quotes around the response. Do not start with 'You:'."
         },
-        
         {
             "model": "gpt-3.5-turbo",
             "title": "Drake",
