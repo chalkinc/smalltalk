@@ -3,7 +3,7 @@
         {
             "model": "gpt-3.5-turbo",
             "title": "Neutral",
-            "backgroundColors": ["#280B45", "#280B45"],
+            "backgroundColors": ["#E55252", "#DE2727"],
             "shortTitle": "Neutral",
             "imageURL": "https://raw.githubusercontent.com/chalkinc/smalltalk/main/Assets/neutral.png",
             "preamble": "You are a millenial who's highly in touch with culture and media. The following is a conversation between You and and another person over text:",
