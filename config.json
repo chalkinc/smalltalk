@@ -1,7 +1,7 @@
 {
     "smartPrompts": [
         {
-            "model": "gpt-3.5-turbo",
+            "model": "gpt-4",
             "title": "Neutral",
             "backgroundColors": ["#E55252", "#DE2727"],
             "shortTitle": "Neutral",
@@ -12,7 +12,7 @@
     ],
     "prompts": [
         {
-            "model": "gpt-3.5-turbo",
+            "model": "gpt-4",
             "title": "Neutral",
             "backgroundColors": ["#E55252", "#DE2727"],
             "shortTitle": "Neutral",
@@ -23,7 +23,7 @@
             "closing": "Please suggest a response for You in the above conversation. Make sure it is in a highly casual, conversational tone as if it's a conversation over text. Limit the response to a maximum of 2 sentences and do not put quotes around the response. Do not start with 'You:'."
         },
         {
-            "model": "gpt-3.5-turbo",
+            "model": "gpt-4",
             "title": "Question",
             "shortTitle": "Question",
             "imageURL": "https://raw.githubusercontent.com/chalkinc/smalltalk/main/Assets/question.png",
@@ -34,7 +34,7 @@
             "closing": "Please suggest a response for You in the conversation above in the form of a question. Make sure it is in the EXACT tone of a millenial. Limit the response to a maximum of 2 sentences and do not put quotes around the response. Do not start with 'You:'."
         },
         {
-            "model": "gpt-3.5-turbo",
+            "model": "gpt-4",
             "title": "Funny",
             "shortTitle": "Funny",
             "imageURL": "https://raw.githubusercontent.com/chalkinc/smalltalk/main/Assets/funny.jpeg",
@@ -45,7 +45,7 @@
             "closing": "Respond in a way that makes Them laugh, and in a casual, realistic tone of a text message conversation. Limit the response to a maximum of 2 sentences and do not put quotes around the response.Do not start with 'You:'."
         },
         {
-            "model": "gpt-3.5-turbo",
+            "model": "gpt-4",
             "title": "Witty",
             "shortTitle": "Witty",
             "imageURL": "https://raw.githubusercontent.com/chalkinc/smalltalk/main/Assets/witty.jpeg",
@@ -56,7 +56,7 @@
             "closing": "Respond in a smooth, witty tone. The response should make Them feel like you're real person. Limit the response to a maximum of 2 sentences and do not put quotes around the response.Do not start with 'You:'."
         },        
         {
-            "model": "gpt-3.5-turbo",
+            "model": "gpt-4",
             "title": "Supportive",
             "shortTitle": "Supportive",
             "imageURL": "https://raw.githubusercontent.com/chalkinc/smalltalk/main/Assets/therock.png",
@@ -67,7 +67,7 @@
             "closing": "Respond in a way that sounds supportive and uses the context of the conversation to uplift things. Limit the response to a maximum of 2 sentences and do not put quotes around the response. Do not start with 'You:'."
         },
         {
-            "model": "gpt-3.5-turbo",
+            "model": "gpt-4",
             "title": "Sassy / Rude",
             "shortTitle": "Rude",
             "imageURL": "https://raw.githubusercontent.com/chalkinc/smalltalk/main/Assets/therock.png",
@@ -78,7 +78,7 @@
             "closing": "Provide a response to the conversation above given that you are You and you are sassy. Limit the response to a maximum of 2 sentences and do not put quotes around the response. Do not start with 'You:'."
         },        
         {
-            "model": "gpt-3.5-turbo",
+            "model": "gpt-4",
             "title": "Cardi B",
             "shortTitle": "Cardi B",
             "imageURL": "https://raw.githubusercontent.com/chalkinc/smalltalk/main/Assets/cardib.jpg",
@@ -89,7 +89,7 @@
             "closing": "Respond in a way that's identical to how Cardi B would respond, and in her tone. Do not suggest a response that doesn't sound EXACTLY like Cardi B. Limit the response to a maximum of 2 sentences and do not put quotes around the response. Do not start with 'You:'."
         },
         {
-            "model": "gpt-3.5-turbo",
+            "model": "gpt-4",
             "title": "Flirty",
             "shortTitle": "Flirty",
             "imageURL": "https://raw.githubusercontent.com/chalkinc/smalltalk/main/Assets/flirty.png",
@@ -100,7 +100,7 @@
             "closing": "Respond how a flirtatious person would respond, escalating the conversation in a way that shows you are interested in them. The response should not be corny or awkward or forced. Limit the response to a maximum of 2 sentences and do not put quotes around the response.Do not start with 'You:'."
         },
         {
-            "model": "gpt-3.5-turbo",
+            "model": "gpt-4",
             "title": "The Rock",
             "shortTitle": "The Rock",
             "imageURL": "https://raw.githubusercontent.com/chalkinc/smalltalk/main/Assets/therock.png",
@@ -112,7 +112,7 @@
         },
         
         {
-            "model": "gpt-3.5-turbo",
+            "model": "gpt-4",
             "title": "Drake",
             "shortTitle": "Drake",
             "imageURL": "https://raw.githubusercontent.com/chalkinc/smalltalk/main/Assets/drake.jpeg",
