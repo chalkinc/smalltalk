@@ -1,5 +1,5 @@
 {
-    "useSmartPrompts": true,
+    "useSmartPrompts": false,
     "smartPrompts": [
         {
             "model": "gpt-4",
