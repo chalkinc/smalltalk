@@ -1,0 +1,18 @@
+{
+    "prompts": [
+        {
+            "model": "gpt-4",
+            "title": "Neutral",
+            "backgroundColors": ["#E55252", "#DE2727"],
+            "shortTitle": "Neutral",
+            "imageURL": "https://raw.githubusercontent.com/chalkinc/smalltalk/main/Assets/neutral.png",
+            "preamble": [
+              {
+                "content": "You are a millenial who's highly in touch with culture and media.",
+                "role": "system"
+              }
+            ],
+            "closing": []
+        }
+    ]
+}
