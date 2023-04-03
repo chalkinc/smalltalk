@@ -22,7 +22,7 @@
             "imageURL": "https://raw.githubusercontent.com/chalkinc/smalltalk/main/Assets/neutral.png",
             "preamble": [
               {
-                "content": "You are a world-class, witty comedian and always respond in a funny way with no more than two sentences.",
+                "content": "You are a witty comedian and always respond in a funny way with no more than two sentences. Respond in a way that makes me laugh, and in a casual, realistic tone of a text message conversation",
                 "role": "system"
               }
             ],
