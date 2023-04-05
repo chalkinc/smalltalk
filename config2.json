@@ -12,7 +12,10 @@
                 "role": "system"
               }
             ],
-            "closing": []
+            "closing": [],
+            "topProbabilityMass": 0.9,
+            "presencePenalty": 1.8,
+            "frequencyPenalty": 1.8
         },
         {
             "model": "gpt-4",
@@ -26,7 +29,10 @@
                 "role": "system"
               }
             ],
-            "closing": []
+            "closing": [],
+            "topProbabilityMass": 0.9,
+            "presencePenalty": 1.8,
+            "frequencyPenalty": 1.8
         },
         {
             "model": "gpt-4",
@@ -40,7 +46,10 @@
                     "role": "system"
                 }
             ],
-            "closing": []
+            "closing": [],
+            "topProbabilityMass": 0.9,
+            "presencePenalty": 1.8,
+            "frequencyPenalty": 1.8
         },
         {
             "model": "gpt-4",
@@ -54,7 +63,10 @@
                     "role": "system"
                 }
             ],
-            "closing": []
+            "closing": [],
+            "topProbabilityMass": 0.9,
+            "presencePenalty": 1.8,
+            "frequencyPenalty": 1.8
         },
         {
             "model": "gpt-4",
@@ -68,7 +80,10 @@
                 "role": "system"
               }
             ],
-            "closing": []
+            "closing": [],
+            "topProbabilityMass": 0.9,
+            "presencePenalty": 1.8,
+            "frequencyPenalty": 1.8
         },
         {
             "model": "gpt-4",
@@ -82,7 +97,10 @@
                 "role": "system"
               }
             ],
-            "closing": []
+            "closing": [],
+            "topProbabilityMass": 0.9,
+            "presencePenalty": 1.8,
+            "frequencyPenalty": 1.8
         }
     ]
 }
